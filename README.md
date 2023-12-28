@@ -3,12 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome!&fontColor=6d14b8)
 ### Hi there 👋
 - 🔭 I’m currently working on JavaScript, React
-- 🌱 I’m aloso currently learning details of React, github 
+- 🌱 I’m currently learning details of React, github 
 - 🤔 I’m looking for help with React
 - 💬 Ask me about anything!
 - 📫 How to reach me: instagram( j1_w0n_00 ), email( giwonk@naver.com )
-- 😄 Pronouns: happy
-- ⚡ Fun fact: I'm trying to be always happy!
+- ⚡ Fun fact: I'm getting more and more interested in coding!
 
 what I learned: 
 
