@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 - 🔭 I’m currently working on JavaScript, React
 - 🌱 I’m aloso currently learning details of React, github 
