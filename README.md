@@ -9,7 +9,7 @@
 - 📫 How to reach me: instagram( j1_w0n_00 ), email( giwonk@naver.com )
 - ⚡ Fun fact: I'm getting more and more interested in coding!
 
-# what I learned
+# what I once learned
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
