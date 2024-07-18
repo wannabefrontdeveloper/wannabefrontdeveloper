@@ -48,9 +48,4 @@
 
 
 
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wannabefrontdevloper&show_icons=true)
-
 </div>
