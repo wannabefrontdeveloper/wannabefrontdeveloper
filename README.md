@@ -48,4 +48,10 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wannabefrontdevloper&show_icons=true)
+
 </div>
