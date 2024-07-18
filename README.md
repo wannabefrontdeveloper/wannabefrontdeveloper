@@ -44,8 +44,5 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-# I'll try until I get an A+!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabefrontdeveloper&show_icons=true&theme=radical)
 
 </div>
